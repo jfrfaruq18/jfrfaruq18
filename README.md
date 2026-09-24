@@ -12,7 +12,6 @@ I'm a **Software Developer** and **SIJA student** interested in building web and
 
 <p>
   <img height="165" src="https://github-readme-stats.vercel.app/api?username=jafarfaruq-png&show_icons=true&hide_border=true" />
-  <img height="165" src="https://github-readme-stats.vercel.app/api/top-langs/?username=jafarfaruq-png&layout=compact&hide_border=true" />
 </p>
 
 ### 📫 Connect with me
